@@ -19,8 +19,9 @@ To compute the fewest number of coins that we need to make up the amount given.
 7.Otherwise, return the value in dp[amount], which is the minimum number of coins needed.
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 
 class Solution(object):
    def coinChange(self, coins, amount):
