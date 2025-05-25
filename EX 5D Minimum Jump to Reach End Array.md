@@ -22,8 +22,9 @@ To write a python program for finding the minimum number of jumps needed to reac
 8.If it is still inf, return -1 because it's not possible to reach the end.
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 
 def minJumps(arr, n):
     ##########  Add your code here ##############
